@@ -1,0 +1,8 @@
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\bin\Debug\VerificarFolgas.exe.config
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\bin\Debug\VerificarFolgas.exe
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\bin\Debug\VerificarFolgas.pdb
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.csprojResolveAssemblyReference.cache
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.MainForm.resources
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.csproj.GenerateResource.Cache
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.exe
+D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.pdb

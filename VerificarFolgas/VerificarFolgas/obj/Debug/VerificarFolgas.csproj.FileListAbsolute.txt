@@ -6,3 +6,11 @@ D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.MainFo
 D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.csproj.GenerateResource.Cache
 D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.exe
 D:\SharpDevelop\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.pdb
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.csprojResolveAssemblyReference.cache
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.MainForm.resources
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.csproj.GenerateResource.Cache
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.exe
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\bin\Debug\VerificarFolgas.exe.config
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\bin\Debug\VerificarFolgas.exe
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\bin\Debug\VerificarFolgas.pdb
+K:\Secundária\Repeat_Client\Escola\verificarRodizio\VerificarFolgas\VerificarFolgas\obj\Debug\VerificarFolgas.pdb

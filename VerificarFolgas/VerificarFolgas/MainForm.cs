@@ -28,7 +28,6 @@ namespace VerificarFolgas
 		
 		void VerificarBTNClick(object sender, EventArgs e)
 		{
-			int ctrl = 0;
 			finalTEXT.Text += "Escala de rodizios" + "\n";
 			
 			foreach (string dia in diasSemana)
@@ -41,31 +40,30 @@ namespace VerificarFolgas
 					string[] placa_nome = infoText.Lines[i].Split('\t');
 					string placa = placa_nome[0];
 					string nome = placa_nome[1];
-					consultaRodizio(placa, nome, ctrl);
+					consultaRodizio(placa, nome, dia);
 				}
-				ctrl++;
 			}
 		}
 		
-		void consultaRodizio(string placa, string nome, int dia)
+		void consultaRodizio(string placa, string nome, string dia)
 		{
-			if ((placa[6] == '1' && dia == 0) || (placa[6] == '2' && dia == 0))
+			if ((placa[6] == '1' && dia == "segunda") || (placa[6] == '2' && dia == "segunda"))
 			{
 				finalTEXT.Text += nome + "\n";
 			}
-			else if ((placa[6] == '3' && dia == 1) || (placa[6] == '4' && dia == 1))
+			else if ((placa[6] == '3' && dia == "terca") || (placa[6] == '4' && dia == "terca"))
 			{
 				finalTEXT.Text += nome + "\n";
 			}
-			else if ((placa[6] == '5' && dia == 2) || (placa[6] == '6' && dia == 2))
+			else if ((placa[6] == '5' && dia == "quarta") || (placa[6] == '6' && dia == "quarta"))
 			{
 				finalTEXT.Text += nome + "\n";
 			}
-			else if ((placa[6] == '7' && dia == 3) || (placa[6] == '8' && dia == 3))
+			else if ((placa[6] == '7' && dia == "quinta") || (placa[6] == '8' && dia == "quinta"))
 			{
 				finalTEXT.Text += nome + "\n";
 			}
-			else if ((placa[6] == '9' && dia == 4) || (placa[6] == '0' && dia == 4))
+			else if ((placa[6] == '9' && dia == "sexta") || (placa[6] == '0' && dia == "sexta"))
 			{
 				finalTEXT.Text += nome + "\n";
 			}
